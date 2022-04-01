@@ -4,4 +4,4 @@
 [Live Site here]()
 
 ### Screenshots
-[screenshot](https://drive.google.com/file/d/160ZeXz55RRXhZ12wu7LlBan6jKogH-tR/view?usp=sharing)
+![screenshot](https://drive.google.com/file/d/160ZeXz55RRXhZ12wu7LlBan6jKogH-tR/view?usp=sharing)
